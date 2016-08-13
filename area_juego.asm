@@ -1,6 +1,6 @@
 ;-------------------------Seccion de datos-------------------------------
 ;Se definen las constantes que se van a usar en el programa
-
+;David Marin Soto
 SECTION	.data
 
 	num0: equ 0
